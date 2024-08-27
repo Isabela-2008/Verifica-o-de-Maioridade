@@ -1,0 +1,43 @@
+# Enunciado do Projeto: Verificador de Maioridade
+
+## Objetivo
+
+Desenvolver um programa em Python que verifica se uma pessoa é maior ou menor de idade com base na idade fornecida. O programa deve informar se a pessoa é maior de idade (18 anos ou mais) ou menor de idade (menos de 18 anos).
+
+## Especificações
+
+1. **Leitura da Idade**
+   - O programa deve solicitar ao usuário que insira a sua idade.
+
+2. **Verificação de Maioridade**
+   - O programa deve verificar se a idade é maior ou igual a 18 anos.
+
+3. **Exibição do Resultado**
+   - O programa deve exibir uma mensagem indicando se o usuário é "maior de idade" ou "menor de idade".
+
+## Considerações
+
+- O sistema deve ser executado em modo de linha de comando (CLI).
+- O código deve ser simples e direto, com tratamento básico para garantir que a entrada seja um número inteiro válido.
+- Certifique-se de que o programa forneça uma saída clara e precisa com base na idade fornecida.
+
+## Observações
+
+- Certifique-se de que o programa funcione corretamente para todas as idades e que o tratamento de entrada seja apropriado.
+
+# Verificador de Maioridade
+
+Este é um programa simples em Python que determina se uma pessoa é maior ou menor de idade com base na idade fornecida pelo usuário. O programa verifica se a idade é maior ou igual a 18 anos para determinar a maioridade.
+
+## Funcionalidades
+
+- **Leitura da Idade:** O programa solicita ao usuário que insira a sua idade.
+- **Verificação de Maioridade:** O programa verifica se a idade é maior ou igual a 18 anos.
+- **Exibição do Resultado:** O programa exibe uma mensagem indicando se o usuário é maior ou menor de idade.
+
+## Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/verificador-maioridade.git
